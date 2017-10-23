@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
 
     private final String defaultActor = "default/";
     private final String urlName = "query/";
-    //private final String hostName="http://10.0.2.2:9000/";
-    private final String hostName = "https://referral-server-9x.herokuapp.com/";
+    private final String hostName="http://10.0.2.2:9000/";
+    //private final String hostName = "https://referral-server-9x.herokuapp.com/";
 
 
     private double[] query = new double[4];
